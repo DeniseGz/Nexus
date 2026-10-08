@@ -2,10 +2,16 @@
 
 # 🌸 N E X U S // Bot 🤖✨
 
+<!-- Badges principales y autoría -->
 <img src="https://img.shields.io/badge/STATUS-ONLINE-ff758c?style=for-the-badge&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/AUTHOR-denissegz-b388ff?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/STACK-Python%20%7C%20Playwright%20%7C%20Colab-7928ca?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AUTHOR-denisegz-b388ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-Google_Colab-orange?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
+<!-- Badges de tecnologías y librerías utilizadas -->
+<img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-Headless-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/MoviePy-Video%2FGIF-FF4F00?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-BotAPI-26A6E9?style=for-the-badge&logo=telegram&logoColor=white"/>
 > *Tu asistente personal en la nube con estética cyber-tech, acento porteño y lista para reventar las Stories de Instagram.* ⚡
 
 </div>
