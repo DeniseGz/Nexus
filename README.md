@@ -23,7 +23,7 @@
 **Nexus** es un bot de Telegram inteligente optimizado para correr en **Google Colab**. Su función principal es tomar cualquier enlace web (especialmente animaciones 3D, Canvas o interactivos en JavaScript), adaptarlo a formato vertical **9:16**, y devolverlo listo para descargar en formato **MP4 (Video)** o **GIF optimizado**.
 
 ## 🎨 Características Principales
-- **Estética Cyber-Tech:** Cabello platinado con claritos soft pink y personalidad única.
+- **Estética Cyber-Tech:** Estética cyber-tech soft pink girl y personalidad única.
 - **Automatización Headless:** Utiliza `Playwright` para navegar, escalar y grabar la pantalla de forma fluida.
 - **Multi-formato:** Comandos limpios para solicitar `/video` o `/gif` según lo que necesites compartir.
 - **Optimizado para Redes:** Resolución exacta pensada para Instagram Stories.
