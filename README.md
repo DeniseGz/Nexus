@@ -37,5 +37,7 @@
 ---
 
 <div align="center">
-  <p>Developed with 💖 and code by <b>denissegz</b></p>
+  <p>Developed with 💖 and code by <b>DeniseGz</b></p>
 </div>
+
+*Designed and developed by DeniseGz © 2026*
