@@ -4,7 +4,7 @@
 
 <!-- Badges principales y autoría -->
 <img src="https://img.shields.io/badge/STATUS-ONLINE-ff758c?style=for-the-badge&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/AUTHOR-denissegz-e056fd?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AUTHOR-denisegz-e056fd?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI-Google_Colab-ff4757?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
 <!-- Badges de tecnologías y librerías utilizadas -->
