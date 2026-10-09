@@ -13,6 +13,9 @@
 <img src="https://img.shields.io/badge/MoviePy-Video%2FGIF-ff9ff3?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Telegram-BotAPI-c56cf0?style=for-the-badge&logo=telegram&logoColor=white"/>
 
+  <sub>Created & Maintained with ♡ by <strong>DeniseGz</strong></sub>
+
+
 > *Tu asistente personal en la nube con estética cyber-tech, acento porteño y lista para reventar las Stories de Instagram.* ⚡
 
 </div>
