@@ -16,7 +16,7 @@
   <sub>Created & Maintained with ♡ by <strong>DeniseGz</strong></sub>
 
 
-> *Tu asistente personal en la nube con estética cyber-tech, acento porteño y lista para reventar las Stories de Instagram.* ⚡
+> *Tu asistente personal en la nube con estética cyber-tech y acento porteño.* ⚡
 
 </div>
 
